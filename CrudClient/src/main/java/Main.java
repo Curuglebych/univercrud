@@ -1,6 +1,6 @@
+import model.CrudModel;
 import view.DefaultFrame;
 import view.MainView;
-import view.StartView;
 
 import javax.swing.*;
 
@@ -15,11 +15,13 @@ public class Main {
             public void run() {
 
                 mainView = new MainView();
+                CrudModel.setMainView(mainView);
 
-                mainView.setPanel(new StartView());
+                CrudModel.init();
 
                 initDefFrame();
 
+                CrudModel.setDefaultFrame(defaultFrame);
                 defaultFrame.add(mainView);
             }
         });

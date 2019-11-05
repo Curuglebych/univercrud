@@ -33,15 +33,4 @@ public class DefaultFrame extends JFrame {
         return new DefaultFrame();
     }
 
-    private String getHeader() {
-
-        Properties prop = new Properties();
-        try {
-            prop.load(new FileInputStream("../CrudClient/properties/header.properties"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        return prop.getProperty("frame");
-    }
 }
