@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrudClient.iml" filepath="$PROJECT_DIR$/.idea/modules/CrudClient.iml" group="CrudClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrudClient/CrudClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrudClient/CrudClient_main.iml" group="CrudClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrudClient/CrudClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CrudClient/CrudClient_test.iml" group="CrudClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrudServer.iml" filepath="$PROJECT_DIR$/.idea/modules/CrudServer.iml" group="CrudServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrudServer/CrudServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrudServer/CrudServer_main.iml" group="CrudServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrudServer/CrudServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CrudServer/CrudServer_test.iml" group="CrudServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/univercrud.iml" filepath="$PROJECT_DIR$/.idea/modules/univercrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/univercrud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/univercrud_main.iml" group="univercrud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/univercrud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/univercrud_test.iml" group="univercrud" />
+    </modules>
+  </component>
+</project>

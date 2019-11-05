@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="CrudClient_main" target="1.8" />
+      <module name="CrudClient_test" target="1.8" />
+      <module name="CrudServer_main" target="1.8" />
+      <module name="CrudServer_test" target="1.8" />
+      <module name="univercrud_main" target="1.8" />
+      <module name="univercrud_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
