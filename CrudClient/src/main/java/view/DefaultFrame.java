@@ -1,5 +1,7 @@
 package view;
 
+import util.PropertyHelper;
+
 import javax.swing.*;
 import java.awt.*;
 import java.io.FileInputStream;
@@ -14,7 +16,7 @@ public class DefaultFrame extends JFrame {
 
     private void init() {
 
-        setTitle(getHeader());
+        setTitle(PropertyHelper.getHeaderProperty("frame"));
 
         setResizable(false);
 
